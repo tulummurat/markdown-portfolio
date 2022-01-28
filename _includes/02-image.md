@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.![repository-open-graph-template](https://user-images.githubusercontent.com/91941818/151570192-d9f23838-81ac-4b24-9dae-422ad34528fe.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
